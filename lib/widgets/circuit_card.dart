@@ -74,7 +74,7 @@ class CircuitCard extends StatelessWidget {
                                 value: "0h15", icon: Icons.timer_outlined),
                             SizedBox(width: 12),
                             InfoSnippet(
-                                value: "12", icon: Icons.filter_none_rounded),
+                                value: "15", icon: Icons.filter_none_rounded),
                           ],
                         )
                       ],
